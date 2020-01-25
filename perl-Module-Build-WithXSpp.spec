@@ -4,7 +4,6 @@
 #
 %define		pdir	Module
 %define		pnam	Build-WithXSpp
-%include	/usr/lib/rpm/macros.perl
 Summary:	Module::Build::WithXSpp - XS++ enhanced flavour of Module::Build
 Name:		perl-Module-Build-WithXSpp
 Version:	0.14
